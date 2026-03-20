@@ -1,1 +1,1 @@
-# Assistente-de-voz-com-Whisper-e-ChatGPT
+# Assistente-de-voz-(Whisper-e-ChatGPT)
